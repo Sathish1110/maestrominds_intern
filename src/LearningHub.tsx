@@ -173,7 +173,7 @@ export const LearningHub: React.FC = () => {
         body {
           margin: 0;
           font-family: 'Inter', sans-serif;
-          background: #f9fafb;
+          background:rgba(249, 250, 251, 0.51);
           color: #111827;
         }
         /* Header full width with padding */
