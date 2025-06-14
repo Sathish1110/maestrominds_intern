@@ -237,7 +237,7 @@ export const LearningHub: React.FC = () => {
         }
         .header-search-input:focus {
           outline: none;
-          box-shadow: 0 0 8px #c7d0ff;
+          box-shadow: 0 0 15px rgb(201, 199, 255);
         }
         .header-controls {
           display: flex;
